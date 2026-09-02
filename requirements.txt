@@ -1,0 +1,16 @@
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+openai-whisper>=20230918
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+librosa>=0.10.0
+soundfile>=0.12.0
+faiss-cpu>=1.7.4
+jiwer>=3.0.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+streamlit>=1.28.0
+accelerate>=0.20.0

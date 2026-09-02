@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "building_name": "Main Library",
+        "folder_name": "library",
+        "category": "Library",
+        "description": "A quiet study facility providing books, computers, digital resources and research support.",
+        "opening_hours": "08:00 AM - 09:00 PM",
+        "map_reference": "Block A - Floor 2",
+        "events": "Academic writing workshop every Monday"
+    },
+    {
+        "id": 2,
+        "building_name": "Lecture Classroom",
+        "folder_name": "classroom",
+        "category": "Lecture Hall",
+        "description": "Teaching space equipped with smart boards and multimedia learning systems.",
+        "opening_hours": "08:00 AM - 07:00 PM",
+        "map_reference": "Block B - Floor 1",
+        "events": "Guest lectures every Friday"
+    },
+    {
+        "id": 3,
+        "building_name": "Computer Laboratory",
+        "folder_name": "computerroom",
+        "category": "Computer Lab",
+        "description": "Computer facility providing programming, AI and software development resources.",
+        "opening_hours": "08:30 AM - 08:00 PM",
+        "map_reference": "Block C - Room 205",
+        "events": "Python coding workshop Wednesday"
+    },
+    {
+        "id": 4,
+        "building_name": "Science Laboratory",
+        "folder_name": "laboratorywet",
+        "category": "Laboratory",
+        "description": "Research laboratory for practical experiments and scientific activities.",
+        "opening_hours": "09:00 AM - 06:00 PM",
+        "map_reference": "Science Block - Floor 1",
+        "events": "Research demonstration sessions"
+    },
+    {
+        "id": 5,
+        "building_name": "Administration Office",
+        "folder_name": "office",
+        "category": "Office",
+        "description": "Administrative support area handling student services and documentation.",
+        "opening_hours": "09:00 AM - 05:00 PM",
+        "map_reference": "Main Building - Ground Floor",
+        "events": "Student support sessions"
+    },
+    {
+        "id": 6,
+        "building_name": "Campus Corridor",
+        "folder_name": "corridor",
+        "category": "Navigation Area",
+        "description": "Main pathway connecting classrooms, offices and student facilities.",
+        "opening_hours": "24 Hours",
+        "map_reference": "All Campus Blocks",
+        "events": "Campus orientation tours"
+    },
+    {
+        "id": 7,
+        "building_name": "Main Reception",
+        "folder_name": "lobby",
+        "category": "Reception",
+        "description": "First contact area for visitors, information and campus guidance.",
+        "opening_hours": "08:00 AM - 06:00 PM",
+        "map_reference": "Entrance Block",
+        "events": "New student welcome sessions"
+    },
+    {
+        "id": 8,
+        "building_name": "Meeting Room",
+        "folder_name": "meeting_room",
+        "category": "Meeting Facility",
+        "description": "Collaborative space for meetings, group work and presentations.",
+        "opening_hours": "09:00 AM - 07:00 PM",
+        "map_reference": "Block B - Room 110",
+        "events": "Project discussion meetings"
+    },
+    {
+        "id": 9,
+        "building_name": "Auditorium Hall",
+        "folder_name": "auditorium",
+        "category": "Event Hall",
+        "description": "Large venue used for seminars, conferences and university events.",
+        "opening_hours": "08:00 AM - 10:00 PM",
+        "map_reference": "Central Campus",
+        "events": "Technology conference Friday"
+    },
+    {
+        "id": 10,
+        "building_name": "Campus Cafeteria",
+        "folder_name": "restaurant_kitchen",
+        "category": "Food Service",
+        "description": "Food and refreshment facility for students and staff members.",
+        "opening_hours": "08:00 AM - 08:00 PM",
+        "map_reference": "Block D - Ground Floor",
+        "events": "International food day"
+    },
+    {
+        "id": 11,
+        "building_name": "Campus Bookstore",
+        "folder_name": "bookstore",
+        "category": "Student Service",
+        "description": "Store providing textbooks, stationery and learning materials.",
+        "opening_hours": "09:00 AM - 06:00 PM",
+        "map_reference": "Block A Entrance",
+        "events": "Book fair event"
+    },
+    {
+        "id": 12,
+        "building_name": "Sports Centre",
+        "folder_name": "gym",
+        "category": "Fitness Facility",
+        "description": "Fitness and exercise area available for students.",
+        "opening_hours": "07:00 AM - 09:00 PM",
+        "map_reference": "Sports Block",
+        "events": "Weekly fitness challenge"
+    },
+    {
+        "id": 13,
+        "building_name": "Campus Museum",
+        "folder_name": "museum",
+        "category": "Exhibition Area",
+        "description": "Educational exhibition space displaying research and creative projects.",
+        "opening_hours": "10:00 AM - 05:00 PM",
+        "map_reference": "Culture Block",
+        "events": "Student innovation exhibition"
+    },
+    {
+        "id": 14,
+        "building_name": "Staircase Area",
+        "folder_name": "stairscase",
+        "category": "Navigation",
+        "description": "Vertical access route connecting different campus floors.",
+        "opening_hours": "24 Hours",
+        "map_reference": "All Blocks",
+        "events": "No scheduled events"
+    },
+    {
+        "id": 15,
+        "building_name": "Elevator Area",
+        "folder_name": "elevator",
+        "category": "Accessibility",
+        "description": "Accessible transportation between campus floors.",
+        "opening_hours": "24 Hours",
+        "map_reference": "Main Building",
+        "events": "No scheduled events"
+    },
+    {
+        "id": 16,
+        "building_name": "Student Locker Room",
+        "folder_name": "locker_room",
+        "category": "Student Facility",
+        "description": "Secure storage area for student belongings.",
+        "opening_hours": "08:00 AM - 08:00 PM",
+        "map_reference": "Student Zone",
+        "events": "No scheduled events"
+    },
+    {
+        "id": 17,
+        "building_name": "Dining Area",
+        "folder_name": "dining_room",
+        "category": "Food Area",
+        "description": "Common dining area for meals and social interaction.",
+        "opening_hours": "08:00 AM - 09:00 PM",
+        "map_reference": "Block D",
+        "events": "Student networking lunch"
+    },
+    {
+        "id": 18,
+        "building_name": "Student Waiting Area",
+        "folder_name": "waitingroom",
+        "category": "Common Area",
+        "description": "Comfortable waiting and relaxation space for students.",
+        "opening_hours": "08:00 AM - 08:00 PM",
+        "map_reference": "Reception Zone",
+        "events": "Student meetups"
+    },
+    {
+        "id": 19,
+        "building_name": "Creative Art Studio",
+        "folder_name": "artstudio",
+        "category": "Creative Facility",
+        "description": "Studio for design, art and creative activities.",
+        "opening_hours": "09:00 AM - 06:00 PM",
+        "map_reference": "Creative Block",
+        "events": "Digital art workshop"
+    },
+    {
+        "id": 20,
+        "building_name": "Music Studio",
+        "folder_name": "studiomusic",
+        "category": "Creative Facility",
+        "description": "Music production and recording facility for students.",
+        "opening_hours": "10:00 AM - 07:00 PM",
+        "map_reference": "Creative Block Room 3",
+        "events": "Student music performance"
+    }
+]

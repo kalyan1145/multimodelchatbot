@@ -1,0 +1,12 @@
+# ── Docker ignore ──
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+.gitignore
+*.md
+*.zip
+logs/
+saved_models/distilbert/checkpoint-*/
+.env

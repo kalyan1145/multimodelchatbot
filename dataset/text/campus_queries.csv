@@ -1,0 +1,201 @@
+query,intent,location
+Is the waiting room open today?,ask_hours,waiting room
+Tell me opening hours of auditorium.,ask_hours,auditorium
+Are there workshops at elevator?,find_event,elevator
+What time does the dining room open?,ask_hours,dining room
+Find programs happening in auditorium.,find_event,auditorium
+Where can I access the staircase?,find_location,staircase
+What time does the meeting room open?,ask_hours,meeting room
+Where can I access the laboratory?,find_location,laboratory
+Navigate me to waiting room.,ask_direction,waiting room
+What time does the museum open?,ask_hours,museum
+Find programs happening in laboratory.,find_event,laboratory
+Navigate me to bookstore.,ask_direction,bookstore
+What events are happening in the dining room?,find_event,dining room
+Show me the location of bookstore.,find_location,bookstore
+Give me directions to the staircase.,ask_direction,staircase
+Where can I access the computer room?,find_location,computer room
+Can you locate the waiting room?,find_location,waiting room
+Where can I access the corridor?,find_location,corridor
+How do I get to the meeting room?,ask_direction,meeting room
+What time does the art studio open?,ask_hours,art studio
+Find programs happening in bookstore.,find_event,bookstore
+Give me directions to the music studio.,ask_direction,music studio
+Show upcoming events at computer room.,find_event,computer room
+Show me the location of cafeteria.,find_location,cafeteria
+When does the library close?,ask_hours,library
+Where can I access the museum?,find_location,museum
+Are there workshops at meeting room?,find_event,meeting room
+Any activities in the elevator?,find_event,elevator
+When does the computer room close?,ask_hours,computer room
+How do I get to the lobby?,ask_direction,lobby
+Find the gym.,find_location,gym
+I want to find the staircase.,find_location,staircase
+Show me the location of music studio.,find_location,music studio
+How can I reach the bookstore?,ask_direction,bookstore
+Show the route to music studio.,ask_direction,music studio
+Find the office.,find_location,office
+Find programs happening in museum.,find_event,museum
+What are the working hours for museum?,ask_hours,museum
+Is the classroom open today?,ask_hours,classroom
+How can I reach the lobby?,ask_direction,lobby
+Find the office.,find_location,office
+Tell me opening hours of gym.,ask_hours,gym
+How can I reach the art studio?,ask_direction,art studio
+Navigate me to lobby.,ask_direction,lobby
+Find the bookstore.,find_location,bookstore
+I want to find the staircase.,find_location,staircase
+Show me the location of waiting room.,find_location,waiting room
+I want to find the classroom.,find_location,classroom
+How do I get to the corridor?,ask_direction,corridor
+When does the music studio close?,ask_hours,music studio
+How can I reach the office?,ask_direction,office
+I want to find the classroom.,find_location,classroom
+Where is the auditorium?,find_location,auditorium
+Find programs happening in cafeteria.,find_event,cafeteria
+What time does the staircase open?,ask_hours,staircase
+How do I get to the laboratory?,ask_direction,laboratory
+Show me the location of dining room.,find_location,dining room
+Where is the museum?,find_location,museum
+Tell me opening hours of music studio.,ask_hours,music studio
+I want to find the dining room.,find_location,dining room
+Find the museum.,find_location,museum
+How do I get to the elevator?,ask_direction,elevator
+Show me the location of computer room.,find_location,computer room
+Navigate me to art studio.,ask_direction,art studio
+Any activities in the meeting room?,find_event,meeting room
+Where can I access the office?,find_location,office
+I want to find the laboratory.,find_location,laboratory
+Show the route to staircase.,ask_direction,staircase
+How do I get to the museum?,ask_direction,museum
+What events are happening in the office?,find_event,office
+Show me the location of locker room.,find_location,locker room
+Any activities in the dining room?,find_event,dining room
+Give me directions to the waiting room.,ask_direction,waiting room
+Show the route to bookstore.,ask_direction,bookstore
+Show me the location of art studio.,find_location,art studio
+How can I reach the art studio?,ask_direction,art studio
+Find programs happening in dining room.,find_event,dining room
+Show upcoming events at laboratory.,find_event,laboratory
+What events are happening in the office?,find_event,office
+I want to find the auditorium.,find_location,auditorium
+Where is the lobby?,find_location,lobby
+Show upcoming events at library.,find_event,library
+What are the working hours for meeting room?,ask_hours,meeting room
+Find the auditorium.,find_location,auditorium
+Tell me opening hours of meeting room.,ask_hours,meeting room
+What time does the classroom open?,ask_hours,classroom
+Give me directions to the auditorium.,ask_direction,auditorium
+Is the auditorium open today?,ask_hours,auditorium
+When does the classroom close?,ask_hours,classroom
+When does the laboratory close?,ask_hours,laboratory
+Navigate me to bookstore.,ask_direction,bookstore
+Show upcoming events at art studio.,find_event,art studio
+What events are happening in the laboratory?,find_event,laboratory
+Navigate me to gym.,ask_direction,gym
+I want to find the office.,find_location,office
+Tell me opening hours of elevator.,ask_hours,elevator
+How do I get to the bookstore?,ask_direction,bookstore
+Navigate me to music studio.,ask_direction,music studio
+I want to find the cafeteria.,find_location,cafeteria
+Find the art studio.,find_location,art studio
+Any activities in the music studio?,find_event,music studio
+Can you locate the cafeteria?,find_location,cafeteria
+What events are happening in the dining room?,find_event,dining room
+Can you locate the dining room?,find_location,dining room
+What time does the bookstore open?,ask_hours,bookstore
+Navigate me to office.,ask_direction,office
+Where is the computer room?,find_location,computer room
+Show me the location of gym.,find_location,gym
+What time does the cafeteria open?,ask_hours,cafeteria
+Find programs happening in elevator.,find_event,elevator
+Find the staircase.,find_location,staircase
+Find the corridor.,find_location,corridor
+When does the computer room close?,ask_hours,computer room
+Is the library open today?,ask_hours,library
+What events are happening in the locker room?,find_event,locker room
+Find programs happening in music studio.,find_event,music studio
+Find the bookstore.,find_location,bookstore
+Can you locate the cafeteria?,find_location,cafeteria
+Any activities in the waiting room?,find_event,waiting room
+Show the route to locker room.,ask_direction,locker room
+Tell me opening hours of library.,ask_hours,library
+How can I reach the cafeteria?,ask_direction,cafeteria
+Navigate me to classroom.,ask_direction,classroom
+What events are happening in the meeting room?,find_event,meeting room
+I want to find the music studio.,find_location,music studio
+What are the working hours for locker room?,ask_hours,locker room
+What time does the library open?,ask_hours,library
+How can I reach the library?,ask_direction,library
+Is the gym open today?,ask_hours,gym
+Are there workshops at meeting room?,find_event,meeting room
+When does the music studio close?,ask_hours,music studio
+What time does the dining room open?,ask_hours,dining room
+Show upcoming events at meeting room.,find_event,meeting room
+Are there workshops at library?,find_event,library
+What events are happening in the art studio?,find_event,art studio
+I want to find the computer room.,find_location,computer room
+Where can I access the gym?,find_location,gym
+Can you locate the laboratory?,find_location,laboratory
+How can I reach the elevator?,ask_direction,elevator
+Tell me opening hours of laboratory.,ask_hours,laboratory
+Navigate me to art studio.,ask_direction,art studio
+Where is the classroom?,find_location,classroom
+Can you locate the bookstore?,find_location,bookstore
+Can you locate the auditorium?,find_location,auditorium
+Find the auditorium.,find_location,auditorium
+What time does the museum open?,ask_hours,museum
+When does the laboratory close?,ask_hours,laboratory
+When does the locker room close?,ask_hours,locker room
+Show the route to locker room.,ask_direction,locker room
+Any activities in the office?,find_event,office
+Can you locate the waiting room?,find_location,waiting room
+Where is the corridor?,find_location,corridor
+How do I get to the classroom?,ask_direction,classroom
+What are the working hours for computer room?,ask_hours,computer room
+Any activities in the elevator?,find_event,elevator
+Is the staircase open today?,ask_hours,staircase
+Is the gym open today?,ask_hours,gym
+Navigate me to bookstore.,ask_direction,bookstore
+Find programs happening in meeting room.,find_event,meeting room
+How can I reach the art studio?,ask_direction,art studio
+Where is the library?,find_location,library
+Is the bookstore open today?,ask_hours,bookstore
+What are the working hours for staircase?,ask_hours,staircase
+What are the working hours for laboratory?,ask_hours,laboratory
+What are the working hours for waiting room?,ask_hours,waiting room
+Any activities in the museum?,find_event,museum
+Any activities in the office?,find_event,office
+I want to find the library.,find_location,library
+Find programs happening in waiting room.,find_event,waiting room
+What time does the office open?,ask_hours,office
+Navigate me to waiting room.,ask_direction,waiting room
+How do I get to the elevator?,ask_direction,elevator
+Show the route to classroom.,ask_direction,classroom
+How do I get to the bookstore?,ask_direction,bookstore
+Can you locate the corridor?,find_location,corridor
+What are the working hours for meeting room?,ask_hours,meeting room
+Show the route to museum.,ask_direction,museum
+Can you locate the staircase?,find_location,staircase
+How do I get to the library?,ask_direction,library
+Show upcoming events at elevator.,find_event,elevator
+Where is the staircase?,find_location,staircase
+When does the dining room close?,ask_hours,dining room
+Navigate me to classroom.,ask_direction,classroom
+Show upcoming events at corridor.,find_event,corridor
+How do I get to the auditorium?,ask_direction,auditorium
+Is the museum open today?,ask_hours,museum
+Navigate me to office.,ask_direction,office
+How can I reach the museum?,ask_direction,museum
+Show the route to auditorium.,ask_direction,auditorium
+Give me directions to the music studio.,ask_direction,music studio
+Are there workshops at computer room?,find_event,computer room
+Is the dining room open today?,ask_hours,dining room
+What are the working hours for museum?,ask_hours,museum
+Can you locate the gym?,find_location,gym
+Is the corridor open today?,ask_hours,corridor
+Find the gym.,find_location,gym
+Find programs happening in classroom.,find_event,classroom
+Find the staircase.,find_location,staircase
+Is the computer room open today?,ask_hours,computer room
+Show the route to library.,ask_direction,library
